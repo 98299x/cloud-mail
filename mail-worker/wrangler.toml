@@ -43,6 +43,7 @@ ai_model = "@cf/meta/llama-3.1-8b-instruct-fast"			#ai模型,不填默认使用@
 analysis_cache = false			#是否开启分析数据缓存
 orm_log = false			#是否sql日志
 domain = [
+    "xxso.de",
 	"skymail.ink",
 	"snd.de5.net",
 	"sp.us.ci",
